@@ -254,6 +254,10 @@
 				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
+				<key>framebuffer-con1-busid</key>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
 				<data>
 				AQAAAA==
